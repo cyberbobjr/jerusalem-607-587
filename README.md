@@ -9,7 +9,7 @@ La page ne part d'aucune date. Elle met côte à côte plusieurs « horloges » 
 - **La méthode** : des écarts plutôt que des dates, un ancrage pour convertir, puis l'intersection des contraintes.
 - **Le récit en 5 étapes**, avec un schéma à l'échelle des taureaux Apis.
 - **L'horloge égyptienne** : transcriptions des stèles d'Apis Louvre N 404 et N 405, et deux chemins de calcul indépendants (depuis la Perse et depuis l'Assyrie).
-- **La frise interactive** : six horloges, zoom, fiches au clic, raccords entre horloges, et une **réglette mobile** qui indique, pour l'année choisie, l'année de règne de chaque souverain.
+- **La frise interactive**, en trois blocs : la lecture 607 en haut (Bible et chronologie babylonienne qu'elle suppose), les horloges indépendantes des deux lectures au milieu (Assyrie, Égypte, Perse), la lecture 587 en bas. Zoom, fiches au clic, raccords entre horloges, et une **réglette mobile** qui indique, pour l'année choisie, l'année de règne de chaque souverain.
 - **Le journal astronomique VAT 4956** : positions des planètes et rencontres du Soleil et de la Lune, testées pour 588 et 568.
 - **Le calculateur** : ancrages activables (perse, assyrien, babylonien, VAT 4956).
 - **Les sources**, citées et liées.
