@@ -23,3 +23,9 @@ Pour le publier en ligne, on peut activer GitHub Pages sur la branche `main` (Se
 ## Langue
 
 La langue est choisie automatiquement d'après le navigateur. Un choix manuel (boutons FR / EN / ES) est mémorisé dans le navigateur.
+
+## Licence
+
+Ce travail est mis à disposition sous la licence [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.fr) : vous pouvez le copier, le modifier et le rediffuser, y compris à des fins commerciales, à condition de citer l'auteur et d'indiquer les modifications. Le texte complet figure dans le fichier [`LICENSE`](LICENSE).
+
+Les textes antiques cités (stèles, tablettes, Bible) et les traductions publiées par d'autres auteurs restent soumis à leurs propres conditions ; les sources sont indiquées dans la page.
